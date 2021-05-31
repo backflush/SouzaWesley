@@ -1,6 +1,6 @@
-## Hi there 👋, I'm Wesley Bernardes
+<h1 align="center">Hi there 👋, I'm Wesley Bernardes</h1>
 
-### I'm a Web Developer | UX Designer focused on turning big problems in great solutions 
+<h2 align="center">I'm a Web Developer | UX Designer focused on turning big problems in great solutions</h2>
 
 - 🔭 I'm currently trying to find a job
 - 🤔 I'm currently studing **ReactJS, TypeScript, NodeJS**
