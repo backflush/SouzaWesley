@@ -1,6 +1,6 @@
 
 <img align="right" height="590em" src="https://gist.githubusercontent.com/SouzaWesley/328795362e6d43296aa2a446afb15d85/raw/4a46372715e1f4a00a6dc3eac29218704d0b4923/profilecard.svg"/>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Mayk Brito</h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Wesley Bernardes</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souzawesley&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 Web Developer & Instructor focused on turning your problems in great solutions
